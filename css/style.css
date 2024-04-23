@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, 'Courier New', 'Lucida Grande',  sans-serif;
+}
+
+h1{
+    color: #222222;
+    text-align: center;
+}
+
+.index-title {
+    background-color: brown; 
+}
+
+.title-other {
+    background-color: rgb(182, 57, 57);
+}
+
+.index-list {
+    background-color: papayawhip;
+    
+}
+
+.index-list a {
+    color: black;
+}
+
+.home {
+    background-color: rgb(224, 223, 223);
+}
+
+.description {
+    font-weight: 700;
+}
